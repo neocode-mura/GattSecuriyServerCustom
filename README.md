@@ -6,6 +6,6 @@ GATT Security ServerテンプレートプロジェクトのGATTは心拍数サービスになっています
 
 詳細は　　
 
-https://neocode.jp/2020/10/13/esp32-wrover-ble-comm-custom-characteristic　　
+https://neocode.jp/2020/10/13/esp32-wrover-ble-comm-custom-characteristic/
 
 を参照下さい。
